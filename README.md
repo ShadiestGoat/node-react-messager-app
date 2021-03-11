@@ -12,6 +12,7 @@ This is a messaging app I am building, not for production though I won't stop yo
 - Has users technically
 - Saves messages & their authors
 - Similar API to discord
+- Markdown messages
 
 ## TODO
 
@@ -26,10 +27,11 @@ This is a messaging app I am building, not for production though I won't stop yo
 	- [ ] etc
 - [ ] Expand API
 	- [ ] Pagination
-- [ ] Add authentication n stuff
+- [ ] Add authentication n stuff for users (using passport, there is authentication for users through an ID & Token)
 - [ ] Add ability to make new users
 - [ ] Improve the looks of it...
 - [ ] Docs
+- [ ] Add a feature to send files
 
 
 ## How to run
