@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # How to run
  
  You need 2 parts to run this: the API and the client. Run the api first.
@@ -37,12 +36,3 @@ serve -s build -l 3000
 ## Interaction with client
 
 The client is available at `localhost:{whatever you but after -l option in the previous step}`, defaults to `localhost:3000`. There let it load a bit, and once messages have loaded, you can safely interact. 
-
-## Database
-
-I have to mention, that since this is connected to a database, I have provided credentials. These credentials are monitored using certain tools, making them practically impossible to leak.
-
-=======
-# school-node-messager-app
-This is to help new students get a feeling of 'belonging'
->>>>>>> 356d37c84a8fb75e3e1708282cbe1dc05093076a
