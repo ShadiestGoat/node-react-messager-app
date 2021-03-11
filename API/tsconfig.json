@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "moduleResolution": "Node",
+        "esModuleInterop": true,
+        "target": "ES6",
+        "resolveJsonModule": true,
+        "outDir": "./dist",
+        "checkJs": true,
+        "module": "CommonJS",
+        "typeRoots": [
+            "@types"
+        ]
+    },
+
+    "include": [
+        "./src/*",
+        "@types/express/index.d.ts"
+    ],
+}
